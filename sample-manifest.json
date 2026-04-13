@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5cdfa807-c207-47a9-a8f5-9c88a9cd1307",
+  "id_short": 591709,
+  "published_at": "2026-04-13T19:43:31Z",
+  "repo_name": "the-hhi-monopoly-index-for-ohio-us-sample-591709",
+  "sample_asset_name": "beamstation_591709_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/591709/beamstation_591709_restaurants-us-oh_SAMPLE_DIST.csv",
+  "sample_records": 120,
+  "sample_sha256": "3eb5861481357376e6cf89a85d497cc652b40dc78113bb640c93690f87a8ab40",
+  "sample_size_bytes": 474045,
+  "total_records": 1202
+}
