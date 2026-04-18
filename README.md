@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Ohio, US
 
-> Free BeamStation sample export with 120 rows and masked direct-contact fields.
+> Free BeamStation sample export with 110 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `591709` |
 | Location | Ohio |
 | Category | Restaurants |
-| Full dataset size | 1,202 records |
-| Free sample size | 120 records (9.98%) |
-| Last export | 2026-04-08T00:43:01.707208+00:00 |
+| Full dataset size | 1,109 records |
+| Free sample size | 110 records (9.92%) |
+| Last export | 2026-04-15T06:25:43.877135+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-ohio-us-sample-591709/releases/download/sample-latest/beamstation_591709_restaurants-us-oh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
